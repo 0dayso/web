@@ -1,0 +1,71 @@
+body{background-color:DarkGoldenRod;}
+b{font-size:12px;}
+td{font-size:12px;height:20px;}
+p{text-indent:2em;font-size:12px;text-align:left;}
+hr{-moz-box-shadow:0px 0px 9px #666; -webkit-box-shadow:0px 0px 9px #666; box-shadow:0px 0px 9px #666;background:white;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:2px;*border:1px solid #ccc;}
+
+div.h{top:0px;font-size:60px;font-family:黑体;color:white;font-color:white;line-height:90px;background-color:YellowGreen  ;-moz-box-shadow:0px 0px 9px #666; -webkit-box-shadow:0px 0px 9px #666; box-shadow:0px 0px 9px #666;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;*border:1px solid #ccc;}
+
+
+div.t{font-size:12px;line-height:25px;background-color:whitesmoke;align:center;padding:1px;1px;1px;1px;}
+a{text-decoration:none;-moz-box-shadow:0px 0px 9px #666; -webkit-box-shadow:0px 0px 9px #666; box-shadow:0px 0px 9px #666;background:#f5f5f5;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:2px;*border:1px solid #ccc;padding:3px;}
+div.t
+a:hover{background-color:Sienna;color:white;}
+
+
+
+div.top{font-size:16px;line-height:25px;background-color:SteelBlue;color:white;padding:5px;
+-moz-box-shadow:0px 0px 9px #666; -webkit-box-shadow:0px 0px 9px #666; box-shadow:0px 0px 9px #666;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:2px;*border:1px solid #ccc;padding:3px;}
+
+div.m{float:center;width:100%;padding:10px,10px,px,px;line-height:25px;clear:both;}
+
+
+div.ma{background-color:#6699cc;color:white;width:100%;font-size:16px;padding:20px;align:right;margin-left:auto;
+margin-right:auto;text-align:center;
+-moz-box-shadow:0px 0px 9px #666; -webkit-box-shadow:0px 0px 9px #666; box-shadow:0px 0px 9px #666;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:10px;*border:1px solid #ccc;padding:3px;}
+
+div.tm{font-size:13px;line-height:25px;background-color:DarkGoldenRod;color:white;text-align:left;
+-moz-box-shadow:0px 0px 9px #666; -webkit-box-shadow:0px 0px 9px #666; box-shadow:0px 0px 9px #666;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:10px;*border:1px solid #ccc;padding:20px;}
+
+div.ml{background-color:whitesmoke;width:20%;margin-left:auto;margin-right:auto;float:left;clear:left;
+-moz-box-shadow:0px 0px 9px #666; -webkit-box-shadow:0px 0px 9px #666; box-shadow:0px 0px 9px #666;background:#f5f5f5;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;*border:1px solid #ccc;
+}
+div.ml
+a:hover{background-color:white;color:blue;}
+
+div.mlt{background-color:whitesmoke;width:80%;float:center;padding:10px,10px,10px,10px;clear:left;
+border:1px solid gainsboro;align:center;margin-left:auto;
+margin-right:auto;}
+div.mlt
+a:hover{background-color:whitesmoke;font-family:黑体;font-size:18px;}
+
+div.mld{background-color:whitesmoke;width:80%;float:center;padding:10px,10px,10px,10px;clear:left;
+border:1px solid gainsboro;align:center;margin-left:auto;
+margin-right:auto;}
+div.mld
+a:hover{background-color:whitesmoke;font-family:黑体;font-size:16px;}
+
+div.mr{background-color:whitesmoke;width:75%;float:right;padding:10px;clear:right;font-size:12px;
+border:1px solid gainsboro;align:right;margin-left:auto;
+margin-right:auto;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;
+-moz-box-shadow:0px 3px 5px #ccc; -webkit-box-shadow:0px 3px 5px #ccc	; box-shadow:0px 3px 5px #ccc;
+}
+div.mr
+a:hover{background-color:whitesmoke;font-family:黑体;font-size:18px;}
+.tm{pading:15px;}
+.span{background-color:whitesmoke;width:100%;float:center;padding:2px,2px,2px,2px;clear:right;
+border:1px solid gainsboro;align:right;margin-left:auto;
+margin-right:auto;text-align:center;
+}
+
+.pp{background-color:whitesmoke;width:100%;float:center;padding:10px,20px,10px,20px;clear:right;
+border:1px solid gainsboro;align:right;margin-left:auto;
+margin-right:auto;text-align:center;
+}
+
+div.footer{width:100%;line-height:15px;background-color:white;
+margin-left:auto;
+margin-right:auto;
+padding:2px;background-color:white;font-size:12px;clear:both;text-align:center;
+-moz-box-shadow:0px 0px 9px #666; -webkit-box-shadow:0px 0px 9px #666; box-shadow:0px 0px 9px #666;background:#f5f5f5;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;*border:1px solid #ccc;}
+.qq{position:fixed;}

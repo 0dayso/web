@@ -1,0 +1,364 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+ 
+</title></head>
+<body style="margin: 0px;">
+    <form name="form1" method="post" action="OrderSearch.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTc5NzI1NzU4DxYEHghvcmRlcm5vcwUtJzEyMDcxNjAwMzgwOTI1NDY4NjMwJywnMTIwNzE2MDAwMzU5MjU0Njg3ODgnHgx0ZW1wb3JkZXJub3NlFgICAw9kFggCEg88KwAQAQAUKwADZGRkFgQCAw8PFgIeDUFsdGVybmF0ZVRleHQFDOaXpeacn+mAieaLqRYEHgVzdHlsZQU8dmVydGljYWwtYWxpZ246dGV4dC1ib3R0b207bWFyZ2luLWJvdHRvbToxcHg7Y3Vyc29yOnBvaW50ZXI7HgdvbmNsaWNrBStDYWxlbmRhclBvcHVwX0ZpbmRDYWxlbmRhcignU2RhdGUnKS5TaG93KCk7ZAIEDxYCHgV2YWx1ZQUKMjAxMi0wNy0xNmQCFQ8PFgIeBFRleHQFATJkZAIXDxYCHgtfIUl0ZW1Db3VudAICFgRmD2QWHGYPDxYCHgdWaXNpYmxlZ2RkAgEPDxYEHgtOYXZpZ2F0ZVVybAUwfi9EaXNwbGF5T3JkZXIuYXNweD9PcmRlck5vPTEyMDcxNjAwMzgwOTI1NDY4NjMwHwYFFDEyMDcxNjAwMzgwOTI1NDY4NjMwZGQCAg8PFgIfBgU86ZmI5paH5rOiPGJyIC8+57yq5YWD5YukPGJyIC8+5bC55pyd6ImvPGJyIC8+5L2Z5YW05paHPGJyIC8+ZGQCAw8PFgIfBgUBLWRkAgQPDxYCHwYFBuW5v+W3nmRkAgUPDxYCHwYFBuWOpumXqGRkAgYPDxYCHwYFBkZNOTM0OGRkAgcPDxYCHwYFCjIwMTItMDctMTZkZAIIDw8WAh8GBQswNy0xNiAwMDozN2RkAgkPDxYCHwYFBiZuYnNwO2RkAgoPDxYCHwhnZGQCCw8PFgIfBmRkZAIMDw8WAh8GBQYmbmJzcDtkZAIODw8WBh8JBS1+L0JvYXJkQ2FyZC5hc3B4P29yZGVybm89MTIwNzE2MDAzODA5MjU0Njg2MzAfBgUP5Luj5o2i55m75py654mMHgdFbmFibGVkaGRkAgEPZBYcZg8PFgIfCGdkZAIBDw8WBB8JBTB+L0Rpc3BsYXlPcmRlci5hc3B4P09yZGVyTm89MTIwNzE2MDAwMzU5MjU0Njg3ODgfBgUUMTIwNzE2MDAwMzU5MjU0Njg3ODhkZAICDw8WAh8GBQ/kvZXmnbBDSEQ8YnIgLz5kZAIDDw8WAh8GBQEtZGQCBA8PFgIfBgUG5rex5ZyzZGQCBQ8PFgIfBgUM5LiK5rW36Jm55qGlZGQCBg8PFgIfBgUGSE8xMTU2ZGQCBw8PFgIfBgUKMjAxMi0wNy0xOWRkAggPDxYCHwYFCzA3LTE2IDAwOjAzZGQCCQ8PFgIfBgUGJm5ic3A7ZGQCCg8PFgIfCGdkZAILDw8WAh8GZGRkAgwPDxYCHwYFBiZuYnNwO2RkAg4PDxYGHwkFLX4vQm9hcmRDYXJkLmFzcHg/b3JkZXJubz0xMjA3MTYwMDAzNTkyNTQ2ODc4OB8GBQ/ku6PmjaLnmbvmnLrniYwfCmhkZAIYD2QWAgIDDw8WAh4LUmVjb3JkY291bnQCAmRkGAEFBVNkYXRlDw8GzXhv6ecwz4hkZIQllvXobB4fmpwtGFa6Y/SX7Aqd" />
+</div>
+ 
+<script type="text/javascript"> 
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+ 
+ 
+<script src="/WebResource.axd?d=7ECC3xx1qjCcL5u-iwdzT092QApLJr1Juf_wLoTjbBGNJDi9IZ-P8rVl42Ok4UNwu4btcZIxOnRGDk9IZflCAo8Gn7k1&amp;t=634604713351482412" type="text/javascript"></script>
+ 
+<script> var tmpImagePath='Images';function HideOrderCanDiv() { $('#divOrderCan').hide() }</script>
+<script src="/WebResource.axd?d=GOsyiihxTC70lHcz7BgTYSx08mhfcTygKhZ-GPneqr6A8duLQF9_PN_iMnBpcDMk6U9ANMJO9iC_ULJEtvdH6ikvGnjiOTeNeiLwgt6_9Vrd2eLl0&amp;t=634604713351482412" type="text/javascript"></script>
+<script src="/WebResource.axd?d=bx5mrBhJRuN6CWELypK8St-7iSGBT6piOoPmMu2T07TSDqzuZZgoXGVDPBAMgSM6GfOuyQUBtT73DvEVHkVVW0g2JFMP76ivq-6gl1Llpngx7N2Zr3geKycquaNKzFLxjiXnug2&amp;t=633609608420000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=ekOl16mKAoItQd-WnMCqW7joDqiPa9haSIQ5FdEHpYzFBKC0iuZJp4rAkVIdwTzCE7IZI6g3fm19A4uuA94IGiNma1S8haJCzt-fo1UjxX00wDQRw0LEKdrusd-iFv9tGbRUQyLlk-Vtrdf2jt1dsdumo8A1&amp;t=633609608420000000" type="text/javascript"></script><link rel="Stylesheet" type="text/css" href="/css/css.css" /><script type="text/javascript" language="javascript">if (window == top) top.location.href = "Exit.aspx";</script>
+<script type="text/javascript"> 
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+ 
+<div>
+ 
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWGgL9w5D/BwK5tcD2CQKmtcD2CQKntcD2CQKp2uqYBQKCnOGrBgLjh6KNCALasYu3BQKAytHKAgL7uKJnAsXOvYwMArGL3pEFAtTat4wNAuuawsgDAtq2jq0GAo7LmaMFAtie2tUEAvya2fIGAsz0+6YPApaiwPwKApbd28IOApuC7cgPAour4ooFAuP1qbcNAq3WptkFAoWR2ZsHcRd4tbKtpJYFUj21kB5EAzNdjCk=" />
+</div>
+    <div>
+        <table border="0" cellpadding="0" cellspacing="0" width="99%" align="center">
+            <tr>
+                <td align="left">
+                    <table width="760" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td width="760" valign="top">
+                                <img src="AirPic/OrderSearch.gif" width="760" height="40" />
+                            </td>
+                        </tr>
+                    </table>
+                    <br />
+                    <table width="760" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td style="width: 365px;" valign="top">
+                                <table width="360" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#cdcdcd"
+                                    bordercolordark="#ffffff">
+                                    <tr>
+                                        <td style="background-color: #EDEDED; height: 28px; font-weight: bold;" colspan="2">
+                                            &nbsp;☆&nbsp;精确查询
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="width: 100px; height: 28px; background-color: #EDFFED;">
+                                            &nbsp;&nbsp;选择查询类型：
+                                        </td>
+                                        <td style="width: 260px;">
+                                            &nbsp;<span id="SeaWay"><input id="SeaWay_0" type="radio" name="SeaWay" value="0" checked="checked" /><label for="SeaWay_0">PNR记录编号</label><input id="SeaWay_1" type="radio" name="SeaWay" value="1" /><label for="SeaWay_1">乘客姓名</label><input id="SeaWay_2" type="radio" name="SeaWay" value="2" /><label for="SeaWay_2">订单编号</label></span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="height: 28px; background-color: #EDFFED;">
+                                            &nbsp;&nbsp;输入查询条件：
+                                        </td>
+                                        <td>
+                                            &nbsp;&nbsp;<input name="SearchKey" type="text" id="SearchKey" style="width:120px;" />
+                                            <span id="ValiKey" style="color:Red;display:none;">请输入查询条件</span>
+                                            <div id="ValidationSummary1" style="color:Red;display:none;">
+ 
+</div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="height: 30px; text-align: center;" colspan="2">
+                                            <input type="submit" name="GeneralBut" value=" 查 询 " onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;GeneralBut&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="GeneralBut" />
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td style="width: 30px;">
+                            </td>
+                            <td style="width: 365px;" valign="top">
+                            </td>
+                        </tr>
+                    </table>
+                    <br />
+                    <table width="760" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#cdcdcd"
+                        bordercolordark="#ffffff">
+                        <tr>
+                            <td style="height: 28px; font-weight: bold; text-align: center;">
+                                <input type="hidden" name="ComArg" id="ComArg" value="-1" />
+                                <a id="AllBut" href="javascript:__doPostBack('AllBut','')">全部订单</a>
+                                <a id="LinkButton4" href="javascript:__doPostBack('LinkButton4','')">暂不能出</a>
+                                <a id="NoPNRBut" href="javascript:__doPostBack('NoPNRBut','')">等待审核</a>
+                                <a id="LinkButton2" href="javascript:__doPostBack('LinkButton2','')">等待订位</a>
+                                <a id="WaitBut" href="javascript:__doPostBack('WaitBut','')">等待支付</a>
+                                <a id="PayOkBut" href="javascript:__doPostBack('PayOkBut','')">支付成功</a>
+                                <a id="CompletedBut" href="javascript:__doPostBack('CompletedBut','')">出票完成</a>
+                                <a id="RepealBut" href="javascript:__doPostBack('RepealBut','')">申请退废</a>
+                                <a id="ReBut" href="javascript:__doPostBack('ReBut','')">退款成功</a>
+                                <a id="CanBut" href="javascript:__doPostBack('CanBut','')">取消订单</a>
+                                <a id="LinkButton1" href="javascript:__doPostBack('LinkButton1','')">审核失败</a>
+                                <a id="LinkButton3" href="javascript:__doPostBack('LinkButton3','')">订位失败</a>
+                            </td>
+                        </tr>
+                    </table>
+                    <table width="760" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#cdcdcd"
+                        bordercolordark="#ffffff">
+                        <tr>
+                            <td style="background-color: #EDEDED; height: 28px; width: 160px; font-weight: bold;">
+                                &nbsp;选择日期查看当日订单：
+                            </td>
+                            <td style="width: 120px; font-weight: bold;">
+                                &nbsp;<span id="Sdate"><input name="Sdate$textBox" type="text" autocomplete="off" value="2012-07-16" readonly="readonly" onchange="javascript:setTimeout('__doPostBack(\'Sdate$textBox\',\'\')', 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="Sdate_textBox" onclick="CalendarPopup_FindCalendar('Sdate').Show();" style="width:74px;" /><img id="Sdate_image" onclick="CalendarPopup_FindCalendar('Sdate').Show();" src="Images/Calendar.png" alt="日期选择" style="border-width:0px;vertical-align:text-bottom;margin-bottom:1px;cursor:pointer;" /><input name="Sdate$hidden" type="hidden" id="Sdate_hidden" value="2012-07-16" /><input name="Sdate$validateHidden" type="hidden" id="Sdate_validateHidden" value="07/16/2012" /><input name="Sdate$enableHidden" type="hidden" id="Sdate_enableHidden" value="true" /><div id="Sdate_calendar" style="z-index:5001;position:absolute;display:none;float:left;filter:progid:DXImageTransform.Microsoft.Shadow(color='#696969', direction=135, strength=4);"></div><div id="Sdate_monthYear" style="z-index:5003;position:absolute;display:none;float:left;filter:progid:DXImageTransform.Microsoft.Shadow(color='#696969', direction=135, strength=4);"></div><div style="float:left;"><iframe id="Sdate_calendar_iframe" style="z-index:5000;position:absolute;display:none" src="/WebResource.axd?d=QmL89MyfAGG7585MYXKIFQ9GZlI1HonWEOuv6btaPEtUmkMWHrWjuTu7ds4j42ulz2wuR74_YVtXKQYLGMzBL051N2DQDxIkJpCUIkGfyxLZ-Urj0&t=633609608420000000"></iframe></div><div style="float:left;"><iframe id="Sdate_monthYear_iframe" style="z-index:5000;position:absolute;display:none" src="/WebResource.axd?d=QmL89MyfAGG7585MYXKIFQ9GZlI1HonWEOuv6btaPEtUmkMWHrWjuTu7ds4j42ulz2wuR74_YVtXKQYLGMzBL051N2DQDxIkJpCUIkGfyxLZ-Urj0&t=633609608420000000"></iframe></div></span>
+                            </td>
+                            <td style="background-color: #EDEDED; height: 28px; width: 480px; font-weight: bold;
+                                text-align: center;">
+                                <input type="submit" name="PrvBut" value="上一日订单" id="PrvBut" style="height:19px;" />
+                                <input type="submit" name="NexBut" value="下一日订单" id="NexBut" style="height:19px;" />
+                            </td>
+                        </tr>
+                    </table>
+                    <br />
+                    <span style="font-weight: bold;">共找到[<span id="OrderNum" style="color:Red;font-weight:bold;">2</span>]笔订单</span>
+                    <table width="760" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#cdcdcd"
+                        bordercolordark="#ffffff">
+                        <tr style="background-color: #EDEDED; font-size: 13px; font-weight: bold;">
+                            <td style="height: 26px; text-align: center;">
+                                订单编号
+                            </td>
+                            <td style="text-align: center;">
+                                客户姓名
+                            </td>
+                            <td style="text-align: center;">
+                                记录编号
+                            </td>
+                            <td style="text-align: center;">
+                                出发城市
+                            </td>
+                            <td style="text-align: center;">
+                                到达城市
+                            </td>
+                            <td style="text-align: center;">
+                                航班号
+                            </td>
+                            <td style="text-align: center;">
+                                出发日期
+                            </td>
+                            <td style="text-align: center;">
+                                预订时间
+                            </td>
+                            <td style="text-align: center;">
+                                出票效率
+                            </td>
+                            <td style="text-align: center;">
+                                订单状态
+                            </td>
+                            <td style="text-align: center;">
+                                改签
+                            </td>
+                            <td style="text-align: center;">
+                                升舱
+                            </td>
+                            <td style="text-align: center;">
+                                代换登机牌
+                            </td>
+                               <td id="tdhand" style="text-align: center;">
+                                订单处理情况
+                            </td>
+ 
+                            <!-- display:none; -->
+                        </tr>
+                        
+                                <tr>
+                                    <td style="height: 25px; text-align: center;">
+                                        <img id="OrderRepeater_ctl00_newpic" src="Images/new.gif" style="border-width:0px;" />
+                                        <a id="OrderRepeater_ctl00_OrderLink" href="DisplayOrder.aspx?OrderNo=12071600380925468630">12071600380925468630</a>
+                                    </td>
+                                    <td style="text-align: center; line-height: 16px;">
+                                        <span id="OrderRepeater_ctl00_GesutName">陈文波<br />缪元勤<br />尹朝良<br />余兴文<br /></span>
+                                    </td>
+                                    <td style="text-align: center; color: #D04305; font-weight: bold;">
+                                        <span id="OrderRepeater_ctl00_PNR">-</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl00_Scity">广州</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl00_Ecity">厦门</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl00_FlightNo">FM9348</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl00_Sdate">2012-07-16</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl00_OrderTime">07-16 00:37</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl00_Efficiency">&nbsp;</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <img id="OrderRepeater_ctl00_PayImg" src="AirPic/PayState.gif" alt="等待支付" style="border-width:0px;" /><span id="OrderRepeater_ctl00_PayState" style="color:Green;font-weight:bold;"></span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <a id="OrderRepeater_ctl00_Modify1" href="#">&nbsp;</a>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <a id="OrderRepeater_ctl00_RiseCabinLink" disabled="disabled">-</a>
+                                    </td>
+                                    <!-- display:none; -->
+                                    <td style="text-align: center;">
+                                       
+                                        <a id="OrderRepeater_ctl00_HyperLink_BoardCark" disabled="disabled">代换登机牌</a>
+                                    </td>
+                                          <td id="OrderRepeater_ctl00_handcell" style="text-align: center;">
+                                          <span id="OrderRepeater_ctl00_lblHandType" style="color:Black;font-size:12px;">——</span>
+                                    </td>
+ 
+                                </tr>
+                            
+                                <tr>
+                                    <td style="height: 25px; text-align: center;">
+                                        <img id="OrderRepeater_ctl01_newpic" src="Images/new.gif" style="border-width:0px;" />
+                                        <a id="OrderRepeater_ctl01_OrderLink" href="DisplayOrder.aspx?OrderNo=12071600035925468788">12071600035925468788</a>
+                                    </td>
+                                    <td style="text-align: center; line-height: 16px;">
+                                        <span id="OrderRepeater_ctl01_GesutName">何杰CHD<br /></span>
+                                    </td>
+                                    <td style="text-align: center; color: #D04305; font-weight: bold;">
+                                        <span id="OrderRepeater_ctl01_PNR">-</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl01_Scity">深圳</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl01_Ecity">上海虹桥</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl01_FlightNo">HO1156</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl01_Sdate">2012-07-19</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl01_OrderTime">07-16 00:03</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <span id="OrderRepeater_ctl01_Efficiency">&nbsp;</span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <img id="OrderRepeater_ctl01_PayImg" src="AirPic/PayState.gif" alt="等待支付" style="border-width:0px;" /><span id="OrderRepeater_ctl01_PayState" style="color:Green;font-weight:bold;"></span>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <a id="OrderRepeater_ctl01_Modify1" href="#">&nbsp;</a>
+                                    </td>
+                                    <td style="text-align: center;">
+                                        <a id="OrderRepeater_ctl01_RiseCabinLink" disabled="disabled">-</a>
+                                    </td>
+                                    <!-- display:none; -->
+                                    <td style="text-align: center;">
+                                       
+                                        <a id="OrderRepeater_ctl01_HyperLink_BoardCark" disabled="disabled">代换登机牌</a>
+                                    </td>
+                                          <td id="OrderRepeater_ctl01_handcell" style="text-align: center;">
+                                          <span id="OrderRepeater_ctl01_lblHandType" style="color:Black;font-size:12px;">——</span>
+                                    </td>
+ 
+                                </tr>
+                            
+                        <div id="PagePanel">
+	
+                            <tr>
+                                <td style="height: 30px;" colspan="14">
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+                                        <tr>
+                                            <td style="text-align: right;">
+                                                
+                                                
+	<!-- AspNetPager V7.2 for VS2005 & VS2008  Copyright:2003-2008 Webdiyer (www.webdiyer.com) -->
+	<!--记录总数只有一页，AspNetPager已自动隐藏，若需在只有一页数据时显示AspNetPager，请将AlwaysShow属性值设为true！-->
+	<!-- AspNetPager V7.2 for VS2005 & VS2008 End -->
+ 
+	
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        
+</div>
+                    </table>
+    </div>
+    </td> </tr> </table>
+    
+<script type="text/javascript"> 
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ValidationSummary1"));
+var eWorld_CalendarPopup_Calendars =  new Array(new CalendarPopup_Calendar('Sdate', 'Sdate_textBox', 'Sdate_label', 'Sdate_button', 'Sdate_image', 'Sdate_hidden', 'Sdate_validateHidden', 'Sdate_enableHidden', 'Sdate_calendar', 'Sdate_monthYear', 11, new Array('一月','二月','三月','四月','五月','六月','七月','八月','九月','十月','十一月','十二月'), new Array('日', '一', '二', '三', '四', '五', '六'), 0, 0, 6, false, '01/01/1000', '12/31/9999', 3, true, 0, 0, false, '[关闭]', 'Select a Date', true, '今天是：', '', '', '', '', '', 220, '07/16/2012', 'Apply', 'Cancel', '', true, false, false, false));
+var eWorld_CalendarPopup_Styles =  new Array(new CalendarPopup_Style('Sdate', "style='color:Black;background-color:White;font-family:宋体;font-size:9pt;text-decoration:none;cursor:pointer;'", "style='color:Black;background-color:White;font-family:宋体;font-size:9pt;text-decoration:none;cursor:pointer;'", "style='color:Black;background-color:#E5E5E5;font-family:宋体;font-size:9pt;cursor:pointer;'", "style='color:Black;background-color:#B5D8FA;font-family:宋体;font-size:9pt;text-decoration:none;cursor:pointer;'", "style='color:White;background-color:#0066CC;font-family:宋体;font-size:9pt;font-weight:bold;cursor:pointer;'", "style='color:Black;background-color:#FFFFCC;font-family:宋体;font-size:9pt;width:40px;'", "style='color:Black;background-color:White;font-family:宋体;font-size:9pt;cursor:pointer;'", "style='color:Black;background-color:#FFFFCC;font-family:宋体;font-size:9pt;cursor:pointer;'", "style='color:Red;background-color:#FFFFCC;font-family:宋体;font-size:9pt;cursor:pointer;'", "style='color:Black;background-color:White;font-family:宋体;font-size:9pt;font-style:italic;text-decoration:none;cursor:pointer;'", "style='color:Black;background-color:White;font-family:宋体;font-size:9pt;font-style:italic;text-decoration:none;cursor:pointer;'", "style='color:Black;background-color:White;font-family:宋体;font-size:9pt;cursor:pointer;'", "style='color:Black;background-color:#B5D8FA;font-family:宋体;font-size:9pt;cursor:pointer;'", "style='color:Black;background-color:LightGrey;border-color:Black;border-width:1px;border-style:solid;font-family:Verdana,Helvetica,Tahoma,Arial;font-size:XX-Small;cursor:pointer;'", "style='color:Gray;background-color:#E5E5E5;font-family:宋体;font-size:9pt;'"));
+var Page_Validators =  new Array(document.getElementById("ValiKey"));
+//]]>
+</script>
+ 
+<script type="text/javascript"> 
+//<![CDATA[
+var ValiKey = document.all ? document.all["ValiKey"] : document.getElementById("ValiKey");
+ValiKey.controltovalidate = "SearchKey";
+ValiKey.errormessage = "请输入查询条件";
+ValiKey.display = "Dynamic";
+ValiKey.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ValiKey.initialvalue = "";
+var ValidationSummary1 = document.all ? document.all["ValidationSummary1"] : document.getElementById("ValidationSummary1");
+ValidationSummary1.showmessagebox = "True";
+ValidationSummary1.showsummary = "False";
+ValidationSummary1.displaymode = "SingleParagraph";
+//]]>
+</script>
+ 
+ 
+<script type="text/javascript"> 
+//<![CDATA[
+ 
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+ 
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+<script src="/Js/JQuery.js" type="text/javascript"></script><p id="bodyBottom">&nbsp;</p><script>var height=document.body.scrollHeight;if (height<400){  document.getElementById('bodyBottom').style.height='400px';}else{document.getElementById('bodyBottom').style.height=100;}</script><table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#AF3510; color:#FFFFFF; line-height:20px;"><tr><td style="height:60px; padding-top:5px;" align="center">客服电话：021-51801688(出票,退票,改签,升舱) 投诉电话：021-51812315 分管电话：021-51803538  <br /> 行程单：021-51811595  国际票:021-51801678 酒店订房：021-51801699 400-888-0138 团队票：021-51801686  <br /> 技术支持：021-62773186 传真：021-62988962 地址：上海普陀区长寿路868号港中旅大厦十一楼</td></tr><tr><td style="height:30px; padding-bottom:5px;" align="center"><a target="_blank" style='color:white;' href='/Navigator/gs.aspx'>公司简介</a> | <a target="_blank" style='color:white;' href='/Navigator/Dao.aspx'>网站导航</a> | <a style='color:white;' href='/Suggest.aspx'>投诉中心</a> | <a target="_blank" style='color:white;' href='/kefu.html'>联系我们</a> | <a style='color:white;' href='/Suggest.aspx'>建议专区</a> <script language="javascript" type="text/javascript" src="http://js.users.51.la/4678694.js"></script><noscript><a href="http://www.51.la/?4678694" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/4678694.asp" style="border:none" /></a></noscript></td></tr></table></form>
+</body>
+</html>
+<DIV id="divRatingDetail" style="position:absolute;z-index:1000;background:#D64F2F;display:none;"></DIV><DIV id="divOrderCan" style="position:absolute;z-index:1000;background:#D64F2F;display:none;"></DIV>

@@ -1,0 +1,23 @@
+.goods{
+	margin-top:10px;
+	width:221px;
+	float:left;
+	margin-left:15px; display:inline;
+}
+.img1,.font1{
+	margin-bottom:10px;
+
+}
+.img1{
+	text-align:center;
+	margin-top:13px
+	
+}
+.font1{
+	text-align:left;
+	word-wrap: break-word; 
+	word-break: normal; 
+}
+.font1 font{
+	color:red;
+}

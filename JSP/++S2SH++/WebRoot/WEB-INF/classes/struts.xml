@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	
+	<package name="test" extends="struts-default">
+		<action name="data" class="com.beijing.ac.DataAction">
+			<result
+name="update" 	type="redirectAction">/Data_find.action</result>
+			<result
+name="findById">/update.jsp</result>
+		</action>
+		
+		<action name="Data_*" class="com.beijing.ac.DataAction" method="{1}">
+			<result 
+name="save"   	type="redirectAction">/Data_find.action</result>
+			<result
+name="delete" 	type="redirectAction">/Data_find.action</result>
+			<result 
+name="find">/{1}.jsp</result>
+		</action>
+	</package>
+</struts>    

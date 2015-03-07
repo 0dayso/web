@@ -1,0 +1,1 @@
+<a href="index备份.asp">点击打开</a>

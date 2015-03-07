@@ -1,0 +1,47 @@
+基础	数据类型    byte(1字节8位),short(2字节16位),int/float(4字节32位),long/double(8字节64位）
+	关键字标识符	
+	数组	一维(int a[];二维char[][];
+	输入输出流	字节流(8位二进制数据如声音图像)；字符流（16位Unicode字符）
+			FileInputStream:InputStream和FileOutputStream:OutputStream
+			FileReader:Reader和FileWriter:Writer
+界面	组件	
+	面板
+	事件
+功能	多媒体
+	多线程
+	网络
+	数据库
+----------------------------------------------------------------------------------------------------------
+foundation/base:  
+	data type:		bit,byte,word,
+	keywords/identifier:
+	array:		one-dimension   int a[];  two-dimension/2d  int a[][]  ;
+	input stream/output stream:  	byte stream/flow(8 bit binary data,for example,sound image);
+				 character stream(16 bit Unicode character);
+interface:	component
+	panel
+	event
+function:	multimedia  
+	multithread
+	net
+	database
+---------------------------------------------------------------------------------------------------
+person   	characteristic	surface		clothes/face:eye,ear,mouth,tongue,hand
+					food/rice/noodle/soop/water
+					live/house
+					traffic/foot/bike/bus/taxi/train/plane/ship							inside		property/mood/idea/principle/goal
+	event		behaviour		buy/sell/earn/pay/see/hear/speak/taste,flavour/write/discribe,represent
+					eat/drink/express/explain,explanation
+					play/do/action/let
+					ride/by
+			heart		rich/poor
+					happy/unhappy/excited/sad/clever/stupid/intelligent/foolish
+					excellent/general/bad
+					strong/weak
+					far/shortness/high/low
+	ask		what/where/which/when/who/why/do/how
+	answer		n or v or adj and adv/n+v  or  adj/adv 				
+-------------------------------------------------------------------------------------------------------
+How study  this course?  You must understand relative knowledge point.there is third point to help you.
+firstly,you'd better know what's that principle.it can do what.why it have this principle?
+we all known,It appear is have foundation because knowledge is  summed up from practice .

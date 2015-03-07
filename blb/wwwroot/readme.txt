@@ -1,0 +1,40 @@
+
+            ¨q©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨r
+    ©¤©¤©¤©¤©È           Ö§¸¶±¦´úÂëÊ¾Àý½á¹¹ËµÃ÷             ©À©¤©¤©¤©¤
+            ¨t©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨s 
+¡¡                                                                  
+¡¡       ½Ó¿ÚÃû³Æ£ºÖ§¸¶±¦¼´Ê±µ½ÕË½»Ò×½Ó¿Ú£¨create_direct_pay_by_user£©
+¡¡ ¡¡    ´úÂë°æ±¾£º3.3
+         ¿ª·¢ÓïÑÔ£ºASP
+         °æ    È¨£ºÖ§¸¶±¦£¨ÖÐ¹ú£©ÍøÂç¼¼ÊõÓÐÏÞ¹«Ë¾
+¡¡       ÖÆ ×÷ Õß£ºÖ§¸¶±¦ÉÌ»§ÊÂÒµ²¿¼¼ÊõÖ§³Ö×é
+         ÁªÏµ·½Ê½£ºÉÌ»§·þÎñµç»°0571-88158090
+
+    ©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤
+
+
+©¤©¤©¤©¤©¤©¤©¤
+ ´úÂëÎÄ¼þ½á¹¹
+©¤©¤©¤©¤©¤©¤©¤
+
+create_direct_pay_by_user-CSHARP-GBK
+  ©¦
+  ©Àclass©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬ÀàÎÄ¼þ¼Ð
+  ©¦  ©¦
+  ©¦  ©Àalipay_core.asp©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬Ö§¸¶±¦½Ó¿Ú¹«ÓÃº¯ÊýÎÄ¼þ
+  ©¦  ©¦
+  ©¦  ©Àalipay_md5.asp ©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬MD5Ç©Ãûº¯ÊýÎÄ¼þ
+  ©¦  ©¦
+  ©¦  ©Àalipay_notify.asp©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬Ö§¸¶±¦Í¨Öª´¦ÀíÀàÎÄ¼þ
+  ©¦  ©¦
+  ©¦  ©Àalipay_submit.asp©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬Ö§¸¶±¦¸÷½Ó¿ÚÇëÇóÌá½»ÀàÎÄ¼þ
+  ©¦  ©¦
+  ©¦  ©¸alipay_config.asp©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬»ù´¡ÅäÖÃÎÄ¼þ
+  ©¦
+  ©Àlog©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬ÈÕÖ¾ÎÄ¼þ¼Ð
+  ©¦
+  ©Àalipayapi.asp©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬Ö§¸¶±¦½Ó¿ÚÈë¿ÚÎÄ¼þ
+  ©¦
+  ©Àindex.asp©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬Ö§¸¶±¦µ÷ÊÔÈë¿ÚÒ³Ãæ
+  ©¦
+  ©Ànotify_url.asp ©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬©¬·þÎñÆ÷Òì²½Í¨ÖªÒ³ÃæÎÄ¼

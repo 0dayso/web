@@ -1,0 +1,13 @@
+<Context>
+ <Resource name="jdbc/wyz"
+       auth="Container"
+       type="javax.sql.DataSource"
+       driverClassName="com.microsoft.sqlserver.SQLServerDriver"
+       url="jdbc:microsoft:sqlserver://127.0.0.1:1433;DatabaseName=User"
+       username="wyz"
+       password="1"
+       maxActive="100"
+       maxIdle="30"
+       maxWait="10000"
+    logAbandoned="true" />
+</Context>

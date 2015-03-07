@@ -1,0 +1,673 @@
+ 
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+ 
+</title><link type="text/css" rel="Stylesheet" href="Css/css.css" />
+    <script language="javascript" src="js/leftOrder.js" type="text/javascript"></script>
+   
+    <script language=javascript>
+    
+  
+    </script>
+</head>
+<body id="body1" style="margin: 0px;">
+<div id="Layer1" style="display:none">sdfsfsdfsfsdf</div>
+    <form name="form1" method="post" action="Menu.aspx?mod=1&amp;page=0&amp;ReturnUrl=" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTc1NTY0MzI2N2RkeSi+savLNYfWYIGk6duFSCuViCI=" />
+</div>
+ 
+<link rel="Stylesheet" type="text/css" href="/css/css.css" /><script type="text/javascript" language="javascript">if (window == top) top.location.href = "Exit.aspx";</script>
+<div>
+ 
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK66O7eDQLxm9yGDAKHhKPKDciYnQPbin0L2X0dVfGhtIPMMRQ5" />
+</div>
+    <input name="hddnViewOrderVisibility" type="hidden" id="hddnViewOrderVisibility" value="0" />
+    <input type="hidden" id="hddnUserName" value="rrrrrr" />
+    <div style="width: 100%">
+        
+            
+                <table id="reptMenu_ctl00_menuTitle" width="100%" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#CDCDCD" bordercolordark="#FFFFFF">
+	<tr>
+		<td onmousemove="menuMouseMove(this)" onmouseout="menuMouseOut(this)" height="26" bgcolor="#FFDEA9" class="leftTitle">
+                            <div style="width:100%;padding-bottom:3px;padding-top:3px;" name="menu0" onclick="menuOnClick(0,'1015')">
+                            <img src="Images/Tiocn.gif" alt=""/>&nbsp;系统管理
+                            </div>
+                        </td>
+	</tr>
+</table>
+ 
+                  
+                            <table id="menu0Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/ModCom.aspx" target="mainFrame" class="left" onclick="doPost('1015','10151005')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>我的资料信息</FONT></a><span id='10151005'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl00_reptModule_ctl00_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/Suggest.aspx" target="mainFrame" class="left" onclick="doPost('1015','10151006')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>投诉留言与建议管理</FONT></a><span id='10151006'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl00_reptModule_ctl01_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/B2C/Dealer/Affiche.aspx" target="mainFrame" class="left" onclick="doPost('1015','10151018')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>我要OEM版本</FONT></a><span id='10151018'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl00_reptModule_ctl02_spItemLine"></span>
+                                    
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu1Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                <table id="reptMenu_ctl02_menuTitle" width="100%" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#CDCDCD" bordercolordark="#FFFFFF">
+	<tr>
+		<td onmousemove="menuMouseMove(this)" onmouseout="menuMouseOut(this)" height="26" bgcolor="#FFDEA9" class="leftTitle">
+                            <div style="width:100%;padding-bottom:3px;padding-top:3px;" name="menu2" onclick="menuOnClick(2,'1025')">
+                            <img src="Images/Tiocn.gif" alt=""/>&nbsp;机场服务
+                            </div>
+                        </td>
+	</tr>
+</table>
+ 
+                  
+                            <table id="menu2Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/AirCheckIn_CG.aspx" target="mainFrame" class="left" onclick="doPost('1025','10251001')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>代换登机牌</FONT></a><span id='10251001'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl02_reptModule_ctl00_spItemLine"></span>
+                                    
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu3Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu4Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu5Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu6Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu7Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu8Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu9Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu10Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu11Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu12Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                <table id="reptMenu_ctl13_menuTitle" width="100%" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#CDCDCD" bordercolordark="#FFFFFF">
+	<tr>
+		<td onmousemove="menuMouseMove(this)" onmouseout="menuMouseOut(this)" height="26" bgcolor="#FFDEA9" class="leftTitle">
+                            <div style="width:100%;padding-bottom:3px;padding-top:3px;" name="menu13" onclick="menuOnClick(13,'1008')">
+                            <img src="Images/Tiocn.gif" alt=""/>&nbsp;采购机票管理
+                            </div>
+                        </td>
+	</tr>
+</table>
+ 
+                  
+                            <table id="menu13Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/AgencyFees.aspx" target="mainFrame" class="left" onclick="doPost('1008','10081001')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>代理费查询</FONT></a><span id='10081001'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl13_reptModule_ctl00_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/PnrInsert.aspx" target="mainFrame" class="left" onclick="doPost('1008','10081003')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#0000ff>PNR导入创建订单</FONT></a><span id='10081003'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl13_reptModule_ctl01_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/SearchAir.aspx" target="mainFrame" class="left" onclick="doPost('1008','10081002')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>舱位查询及预订</FONT></a><span id='10081002'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl13_reptModule_ctl02_spItemLine"><tr><td style='width:100%;text-align:center;'><hr size='2' Color='#999999' style='width:100%;' /></td></tr></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/fellowship/InsertGroupTicket.aspx" target="mainFrame" class="left" onclick="doPost('1008','10081008')"><FONT style="FONT-SIZE: 13px" face=宋体><FONT color=#000000><FONT face=华文细黑>团队</FONT>票申请</FONT></FONT></a><span id='10081008'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl13_reptModule_ctl03_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/RiseCabinService/ApplyRiseCabin.aspx" target="mainFrame" class="left" onclick="doPost('1008','10081010')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>申请升舱及订单查询</FONT></a><span id='10081010'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl13_reptModule_ctl04_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/Insurance/InsuranceChoose.aspx" target="mainFrame" class="left" onclick="doPost('1008','10081013')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>订购电子保险</FONT></a><span id='10081013'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl13_reptModule_ctl05_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/Insurance/MaganeInsurance.aspx" target="mainFrame" class="left" onclick="doPost('1008','10081022')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>已购电子保险(11月22日前)</FONT></a><span id='10081022'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl13_reptModule_ctl06_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/citycode_query.aspx" target="mainFrame" class="left" onclick="doPost('1008','10131001')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>三字代码查询</FONT></a><span id='10131001'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl13_reptModule_ctl07_spItemLine"></span>
+                                    
+                            </table>
+                  
+            
+            
+                <table id="reptMenu_ctl14_menuTitle" width="100%" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#CDCDCD" bordercolordark="#FFFFFF">
+	<tr>
+		<td onmousemove="menuMouseMove(this)" onmouseout="menuMouseOut(this)" height="26" bgcolor="#FFDEA9" class="leftTitle">
+                            <div style="width:100%;padding-bottom:3px;padding-top:3px;" name="menu14" onclick="menuOnClick(14,'1009')">
+                            <img src="Images/Tiocn.gif" alt=""/>&nbsp;在线订单管理
+                            </div>
+                        </td>
+	</tr>
+</table>
+ 
+                  
+                            <table id="menu14Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/OrderSearch.aspx" target="mainFrame" class="left" onclick="doPost('1009','10091001')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>当日最新订单</FONT></a><span id='10091001'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl14_reptModule_ctl00_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/PrintJourney.aspx" target="mainFrame" class="left" onclick="doPost('1009','10091012')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>机票告知单打印</FONT></a><span id='10091012'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl14_reptModule_ctl01_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/MyOrder.aspx" target="mainFrame" class="left" onclick="doPost('1009','10091002')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>所有订单查询</FONT></a><span id='10091002'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl14_reptModule_ctl02_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/BalanceDetailSearch.aspx?flag=prox" target="mainFrame" class="left" onclick="doPost('1009','10091003')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>报表</FONT></a><span id='10091003'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl14_reptModule_ctl03_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/FreeTransfer/BatchAlipay.aspx" target="mainFrame" class="left" onclick="doPost('1009','10091011')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>自由转账</FONT></a><span id='10091011'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl14_reptModule_ctl04_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/cancel_Today_Orders_Search.aspx" target="mainFrame" class="left" onclick="doPost('1009','10091004')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>当日退票订单</FONT></a><span id='10091004'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl14_reptModule_ctl05_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/TodayJourney.aspx" target="mainFrame" class="left" onclick="doPost('1009','10091005')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>申请行程单</FONT></a><span id='10091005'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl14_reptModule_ctl06_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/Flight_Dally_Orders.aspx" target="mainFrame" class="left" onclick="doPost('1009','10091007')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>航班延误订单</FONT></a><span id='10091007'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl14_reptModule_ctl07_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/delayflight.aspx" target="mainFrame" class="left" onclick="doPost('1009','10081023')"><font color="#000000" face="宋体" style="font-size:13px">航班延误证明提交</font></a><span id='10081023'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl14_reptModule_ctl08_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/TicketCancelNew.aspx" target="mainFrame" class="left" onclick="doPost('1009','10131002')"><FONT style="FONT-SIZE: 13px" color=#000000 face=宋体>退票规定</FONT></a><span id='10131002'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl14_reptModule_ctl09_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/TicketCancelNew.aspx?type=2" target="mainFrame" class="left" onclick="doPost('1009','10091013')"><FONT style="FONT-SIZE: 13px" color=#000000 face=宋体>改签规定</FONT></a><span id='10091013'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl14_reptModule_ctl10_spItemLine"></span>
+                                    
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu15Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                <table id="reptMenu_ctl16_menuTitle" width="100%" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#CDCDCD" bordercolordark="#FFFFFF">
+	<tr>
+		<td onmousemove="menuMouseMove(this)" onmouseout="menuMouseOut(this)" height="26" bgcolor="#FFDEA9" class="leftTitle">
+                            <div style="width:100%;padding-bottom:3px;padding-top:3px;" name="menu16" onclick="menuOnClick(16,'1027')">
+                            <img src="Images/Tiocn.gif" alt=""/>&nbsp;短信平台
+                            </div>
+                        </td>
+	</tr>
+</table>
+ 
+                  
+                            <table id="menu16Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/SMSSend/SMSRecharge.aspx" target="mainFrame" class="left" onclick="doPost('1027','10271001')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>短信充值</FONT></a><span id='10271001'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl16_reptModule_ctl00_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/SMSSend/OutTicketSMS.aspx" target="mainFrame" class="left" onclick="doPost('1027','10271002')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>出票完成通知</FONT></a><span id='10271002'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl16_reptModule_ctl01_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/SMSSend/ChangeSignSMS.aspx" target="mainFrame" class="left" onclick="doPost('1027','10271003')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>改签成功通知</FONT></a><span id='10271003'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl16_reptModule_ctl02_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/SMSSend/RiseCabinSMS.aspx" target="mainFrame" class="left" onclick="doPost('1027','10271004')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>升舱成功通知</FONT></a><span id='10271004'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl16_reptModule_ctl03_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/SMSSend/SMSSendHistory.aspx" target="mainFrame" class="left" onclick="doPost('1027','10271005')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>短信发送历史</FONT></a><span id='10271005'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl16_reptModule_ctl04_spItemLine"></span>
+                                    
+                            </table>
+                  
+            
+            
+                <table id="reptMenu_ctl17_menuTitle" width="100%" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#CDCDCD" bordercolordark="#FFFFFF">
+	<tr>
+		<td onmousemove="menuMouseMove(this)" onmouseout="menuMouseOut(this)" height="26" bgcolor="#FFDEA9" class="leftTitle">
+                            <div style="width:100%;padding-bottom:3px;padding-top:3px;" name="menu17" onclick="menuOnClick(17,'1011')">
+                            <img src="Images/Tiocn.gif" alt=""/>&nbsp;常旅客管理
+                            </div>
+                        </td>
+	</tr>
+</table>
+ 
+                  
+                            <table id="menu17Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/Visitor_Add.aspx" target="mainFrame" class="left" onclick="doPost('1011','10111001')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>常旅客客户添加</FONT></a><span id='10111001'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl17_reptModule_ctl00_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/Visitor_Show.aspx" target="mainFrame" class="left" onclick="doPost('1011','10111002')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>常旅客查询/修改</FONT></a><span id='10111002'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl17_reptModule_ctl01_spItemLine"></span>
+                                    
+                            </table>
+                  
+            
+            
+                <table id="reptMenu_ctl18_menuTitle" width="100%" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#CDCDCD" bordercolordark="#FFFFFF">
+	<tr>
+		<td onmousemove="menuMouseMove(this)" onmouseout="menuMouseOut(this)" height="26" bgcolor="#FFDEA9" class="leftTitle">
+                            <div style="width:100%;padding-bottom:3px;padding-top:3px;" name="menu18" onclick="menuOnClick(18,'1012')">
+                            <img src="Images/Tiocn.gif" alt=""/>&nbsp;常用软件下载
+                            </div>
+                        </td>
+	</tr>
+</table>
+ 
+                  
+                            <table id="menu18Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/SoftwareList.aspx" target="mainFrame" class="left" onclick="doPost('1012','10121001')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>eTerm查票软件下载</FONT></a><span id='10121001'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl18_reptModule_ctl00_spItemLine"></span>
+                                    
+                                        <tr>
+                                            <td style="height: 22px;">
+                                                &nbsp;&nbsp;· <a href="/SoftwareList.aspx" target="mainFrame" class="left" onclick="doPost('1012','10121006')"><FONT style="FONT-SIZE: 13px" face=宋体 color=#000000>告知单打印系统下载</FONT></a><span id='10121006'></span>
+                                            </td>
+                                        </tr>
+                                        <span id="reptMenu_ctl18_reptModule_ctl01_spItemLine"></span>
+                                    
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu19Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu20Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+            
+                
+                  
+                            <table id="menu21Table" cellpadding="0" cellspacing="0" width="100%">
+                                
+                            </table>
+                  
+            
+        
+        <table width="100%" border="1" cellpadding="0" cellspacing="0" bordercolorlight="#CDCDCD"
+            bordercolordark="#FFFFFF">
+            <tr style="cursor: hand;">
+                <td id="menu13" height="26" bgcolor="#FFDEA9" class="leftTitle">
+                    <img src="Images/Tiocn.gif" />&nbsp;其它信息
+                </td>
+            </tr>
+        </table>
+        <table width="100%" border="0" cellpadding="0" cellspacing="0" bordercolorlight="#CDCDCD"
+            bordercolordark="#FFFFFF">
+            <tr>
+                <td style="height: 70px;">
+                    <a href="kefu.html" target="mainFrame">
+                        <img src="Images/olserver.gif" border="0" /></a>
+                </td>
+            </tr>
+            <tr>
+                <td style="height: 30px; background:url(Images/Main/Order_bg_color.gif);">
+                    &nbsp;&nbsp;·<a id="A1" class="left" href="main.aspx" target="mainFrame">我的桌面</a>
+                </td>
+            </tr>
+         <tr>
+                <td style="height: 22px;">
+                    &nbsp;&nbsp;·<a id="ctl00_JasonLmenu_HyperLink91" class="left" href="https://www.alipay.com/"
+                        target="_blank">注册[支付宝]帐户</a>
+                </td>
+            </tr>
+            <tr>
+                <td style="height: 22px;">
+                    &nbsp;&nbsp;·<a id="ctl00_JasonLmenu_ExitLink" class="left" href="Exit.aspx">退出系统</a>
+                </td>
+            </tr>
+        </table>
+        <input name="txtMenuMax" type="hidden" id="txtMenuMax" value="21" />
+        <script type="text/javascript">
+    
+    document.onload = new function()
+    {
+      
+      
+           for(var i=0;i<=17;i++)
+           {
+               if("" != "")
+                {
+                        if("" != i)
+                        {
+                             if(document.getElementById("menu"+i+"Table") != null)
+                            { 
+                                           
+                                          if (document.getElementById("menu"+i+"Table").style.display == "") 
+                                                document.getElementById("menu"+i+"Table").style.display = "none";
+                                   
+                              }
+                         }
+                } 
+                else
+                {
+                    if(document.getElementById("menu"+i+"Table") != null)
+                    { 
+                                   
+                          if (document.getElementById("menu"+i+"Table").style.display == "") 
+                                document.getElementById("menu"+i+"Table").style.display = "none";
+                           
+                      }
+                }
+            }
+       
+    }
+    function menuOnClick(num,menuCode)
+    {
+        var obj;
+        var objnum = document.getElementById("menu"+num+"Table");
+        for(var i=0;i<=17;i++)
+       {
+            obj = document.getElementById("menu"+i+"Table");
+            if(obj != null)
+            { 
+                 if(i != num)
+                 { 
+                      if (obj.style.display == "") 
+                            obj.style.display = "none";
+                 }
+            }    
+       }
+       objnum.style.display = objnum.style.display == "none" ? "":"none";
+       
+       //------------------------------------------------Order-----------------------------------
+       if(objnum.style.display == "" &&　menuCode!="0")
+       {
+             doPost(menuCode,"-1");
+       }
+       //----------------------------------------------------------------------------------------
+    }
+    function menuMouseMove(o)
+    {
+        o.style.MozOpacity = 0.5;
+        o.style.filter ="alpha(opacity=80)";
+    }
+    function menuMouseOut(o)
+    {
+        o.style.MozOpacity = 1;
+        o.style.filter = "alpha(opacity=100)";
+    }   
+    
+    function doPost(menuCode,meucode2)
+    {
+        if( meucode2 =="10031008")return;
+       if(menuCode=="1003" || menuCode=="1004")
+       {
+          if( meucode2 != "-1")
+          {
+              if(leftModuleList.indexOf(meucode2)<0)
+              {
+                return;
+              }
+          }
+          launchRequest(menuCode); 
+       } 
+       if(menuCode=='1008' && meucode2=='10081013'){
+       gotoUrl2('http://bao.jinri.cn/LoginHelper.aspx');
+       return;
+       }
+    }
+ 
+        </script>
+ 
+    <script type="text/javascript">
+       
+        if ('' != '') {
+            var max = document.getElementById("txtMenuMax").value;
+           
+            for (var i = 0; i <= max; i++) {
+                var childLen = document.getElementById("menu" + i + "Table").rows.length;
+               
+                for (var j = 0; j < childLen; j++) {
+                    var obj = document.getElementById("menu" + i + "Table").rows(j).childNodes[0].getElementsByTagName("A");
+                    if(obj[0])
+                    {
+                        if (obj[0].href.toLowerCase().indexOf('') >= 0) {
+                        //document.getElementById("tb_" + i).rows(j).className = "bg3"
+                            menuOnClick(i,0);
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+<script type="text/javascript"> 
+    function gotoUrl(url) {
+        var paramStr = "";
+        var guid = $.ajax({
+            type: "GET",
+            url: "Guerdon.aspx",
+            cache: false,
+            async: false,
+            dataType: "html"
+        }).responseText;
+        paramStr = "http://guid.jinri.cn/Login.aspx?guid=" + guid + "&goto=" + url;
+        top.location.href = paramStr;
+    }
+    function gotoUrl2(url) {
+        var paramStr = "";
+        var guid = $.ajax({
+            type: "GET",
+            url: "Guerdon.aspx",
+            cache: false,
+            async: false,
+            dataType: "html"
+        }).responseText;
+        paramStr = "http://guid.jinri.cn/Login.aspx?guid=" + guid + "&goto=" + url;
+        window.open(paramStr);
+    }
+</script>    
+    </div>
+    
+<script src="/Js/JQuery.js" type="text/javascript"></script></form>
+</body>
+</html>
+
